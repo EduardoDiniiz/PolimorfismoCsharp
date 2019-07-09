@@ -1,0 +1,11 @@
+C:\Users\eduardo\source\repos\PolimorfismoCsharp\PolimorfismoCsharp\bin\Debug\netcoreapp2.1\PolimorfismoCsharp.deps.json
+C:\Users\eduardo\source\repos\PolimorfismoCsharp\PolimorfismoCsharp\bin\Debug\netcoreapp2.1\PolimorfismoCsharp.runtimeconfig.json
+C:\Users\eduardo\source\repos\PolimorfismoCsharp\PolimorfismoCsharp\bin\Debug\netcoreapp2.1\PolimorfismoCsharp.runtimeconfig.dev.json
+C:\Users\eduardo\source\repos\PolimorfismoCsharp\PolimorfismoCsharp\bin\Debug\netcoreapp2.1\PolimorfismoCsharp.dll
+C:\Users\eduardo\source\repos\PolimorfismoCsharp\PolimorfismoCsharp\bin\Debug\netcoreapp2.1\PolimorfismoCsharp.pdb
+C:\Users\eduardo\source\repos\PolimorfismoCsharp\PolimorfismoCsharp\obj\Debug\netcoreapp2.1\PolimorfismoCsharp.csprojAssemblyReference.cache
+C:\Users\eduardo\source\repos\PolimorfismoCsharp\PolimorfismoCsharp\obj\Debug\netcoreapp2.1\PolimorfismoCsharp.csproj.CoreCompileInputs.cache
+C:\Users\eduardo\source\repos\PolimorfismoCsharp\PolimorfismoCsharp\obj\Debug\netcoreapp2.1\PolimorfismoCsharp.AssemblyInfoInputs.cache
+C:\Users\eduardo\source\repos\PolimorfismoCsharp\PolimorfismoCsharp\obj\Debug\netcoreapp2.1\PolimorfismoCsharp.AssemblyInfo.cs
+C:\Users\eduardo\source\repos\PolimorfismoCsharp\PolimorfismoCsharp\obj\Debug\netcoreapp2.1\PolimorfismoCsharp.dll
+C:\Users\eduardo\source\repos\PolimorfismoCsharp\PolimorfismoCsharp\obj\Debug\netcoreapp2.1\PolimorfismoCsharp.pdb
